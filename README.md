@@ -1,6 +1,6 @@
 # warsztat_git
 
-# pierwszy comit
+# pierwszy comit tutaj zmieniam
 
 # będzie konflikt
 

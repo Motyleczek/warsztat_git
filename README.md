@@ -3,3 +3,5 @@
 # pierwszy comit
 
 # będzie konflikt
+
+# dodaje kolejne informacje
